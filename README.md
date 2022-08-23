@@ -8,7 +8,7 @@
 - [x] **0.** [Git Basics](#git-basics)
     - Course: Version Control with Git (Udasity)
     - Course: Learn Git branching
-- [ ] **1.** [Linux CLI and Networking](#linux-cli-and-http)
+- [x] **1.** [Linux CLI and Networking](#linux-cli-and-http)
     - Course: Linux Survival
     - Article: HTTP: The Protocol Every Web Developer Must Know - Part 1
     - Article: HTTP: The Protocol Every Web Developer Must Know - Part 2
@@ -57,6 +57,7 @@ I really liked how the visualization of the git commands was done.
 
 </p>
 </details>
+
 ### Linux CLI and HTTP
 
 #### Linux Survival
