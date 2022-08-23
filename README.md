@@ -57,3 +57,33 @@ I really liked how the visualization of the git commands was done.
 
 </p>
 </details>
+### Linux CLI and HTTP
+
+#### Linux Survival
+
+As a user of the Windows system, I was very interested to learn more about Linux. Many of the commands mentioned in the course can be helpful when using git bash.
+
+<details><summary>Screenshot1</summary>
+<p>
+
+![Screenshot-image-link](task_linux_cli/Qulz1.PNG)
+</p>
+</details>
+<details><summary>Screenshot2</summary>
+<p>
+
+![Screenshot-image-link](task_linux_cli/Qulz2.PNG)
+</p>
+</details>
+<details><summary>Screenshot3</summary>
+<p>
+
+![Screenshot-image-link](task_linux_cli/Qulz3.PNG)
+</p>
+</details>
+<details><summary>Screenshot4</summary>
+<p>
+
+![Screenshot-image-link](task_linux_cli/Qulz4.PNG)
+</p>
+</details>
