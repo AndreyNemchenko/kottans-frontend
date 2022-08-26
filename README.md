@@ -98,12 +98,15 @@ As a user of the Windows system, I was very interested to learn more about Linux
 This course is a follow-up to Version Control with Git. In it, we will learn more detailed work with a remote repository and good practices of cooperation with other free software developers.
 I don’t use 'pull requests' on a daily basis, so this topic was very interesting to me.
 
-<details><summary>Screenshot</summary>
+<details><summary>Screenshot1</summary>
 <p>
 
 ![Screenshot-image-link](task_git_collaboration/coursera3.PNG)
 </p>
 </details>
+
+<details><summary>Screenshot2</summary>
+<p>
 
 ![Screenshot-image-link](task_git_collaboration/coursera4.PNG)
 </p>
