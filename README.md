@@ -46,8 +46,8 @@
 ### Git Basics
 
 #### Version Control with Git
-The course provides basic knowledge and understanding of how git works, which is very useful for those who have not worked with version control systems.
-I really liked how the visualization of the git commands was done.
+Got a basic knowledge of how git works, which is very interesting for those who have not worked with version control systems.
+I really liked how the visualization of git commands was done.
 
 <details><summary>Screenshot</summary>
 <p>
@@ -62,7 +62,7 @@ I really liked how the visualization of the git commands was done.
 
 #### Linux Survival
 
-As a user of the Windows system, I was very interested to learn more about Linux. Many of the commands mentioned in the course can be helpful when using git bash.
+As a Windows system user, I was very interested in learning more about Linux. Commands that are used in Linux can also be used in Git.
 
 <details><summary>Screenshot1</summary>
 <p>
@@ -95,8 +95,7 @@ As a user of the Windows system, I was very interested to learn more about Linux
 
 #### Course: GitHub & Collaboration
 
-This course is a follow-up to Version Control with Git. In it, we will learn more detailed work with a remote repository and good practices of cooperation with other free software developers.
-I don’t use 'pull requests' on a daily basis, so this topic was very interesting to me.
+This course is a continuation of the Git Basics course. Acquainted and practiced in the collective use of git. I have not had this experience yet, it was interesting.
 
 <details><summary>Screenshot1</summary>
 <p>
@@ -115,6 +114,20 @@ I don’t use 'pull requests' on a daily basis, so this topic was very interesti
 
 #### Course: Learn Git branching (last levels)
 
-I finished this course with an assignment [Learn Git branching interactive course](#learn-git-branching-interactive-course)git 
+I took the course and completed it.
+
+<details><summary>Screenshot2</summary>
+<p>
+
+![Screenshot-image-link](task_git_collaboration/Git1.PNG)
+</p>
+</details>
+
+<details><summary>Screenshot2</summary>
+<p>
+
+![Screenshot-image-link](task_git_collaboration/Git2.PNG)
+</p>
+</details>
 
 ---
