@@ -134,6 +134,8 @@ I took the course and completed it.
 
 ### Intro to HTML and CSS
 
+Completed a course in HTML and CSS. Completed practical tasks.From useful things, I finally understood how tables work.Refreshed basic knowledge.
+
 <details><summary>Screenshot</summary>
 <p>
 
