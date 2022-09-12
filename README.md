@@ -21,7 +21,7 @@
     - Course: Intro to HTML & CSS (Udasity)
     - Course: Learn HTML(Codeacademy)
     - Course: Learn CSS(Codeacademy)
-- [ ] **4.** [Responsive Web Design](#responsive-web-design)
+- [x] **4.** [Responsive Web Design](#responsive-web-design)
     - Course: Responsive Web Design Fundamentals
     - Game: Flexbox froggy
 - [ ] **5.** [HTML & CSS Practice]()
@@ -175,5 +175,22 @@ Course: Learn HTML+CSS(Codeacademy)
 <p>
 
 ![Screenshot-image-link](task_html_css_intro/HTML_CSS.PNG)
+</p>
+</details>
+
+### Responsive Web Design
+
+Familiarized with the basics of FLEXBOX and CSS GRID. While doing visual practice on Froggy and Garden, I understood the basics on a visual example. It was interesting!
+
+<details><summary>Screenshot</summary>
+<p>
+
+![Screenshot-image-link](task_responsive_web_design/Flexbox.PNG)
+</p>
+</details>
+<details><summary>Screenshot</summary>
+<p>
+
+![Screenshot-image-link](task_responsive_web_design/Grid.PNG)
 </p>
 </details>
