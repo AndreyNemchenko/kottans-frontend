@@ -64,25 +64,25 @@ I really liked how the visualization of git commands was done.
 
 As a Windows system user, I was very interested in learning more about Linux. Commands that are used in Linux can also be used in Git.
 
-<details><summary>Screenshot1</summary>
+<details><summary>Screenshot</summary>
 <p>
 
 ![Screenshot-image-link](task_linux_cli/Qulz1.PNG)
 </p>
 </details>
-<details><summary>Screenshot2</summary>
+<details><summary>Screenshot</summary>
 <p>
 
 ![Screenshot-image-link](task_linux_cli/Qulz2.PNG)
 </p>
 </details>
-<details><summary>Screenshot3</summary>
+<details><summary>Screenshot</summary>
 <p>
 
 ![Screenshot-image-link](task_linux_cli/Qulz3.PNG)
 </p>
 </details>
-<details><summary>Screenshot4</summary>
+<details><summary>Screenshot</summary>
 <p>
 
 ![Screenshot-image-link](task_linux_cli/Qulz4.PNG)
@@ -97,14 +97,14 @@ As a Windows system user, I was very interested in learning more about Linux. Co
 
 This course is a continuation of the Git Basics course. Acquainted and practiced in the collective use of git. I have not had this experience yet, it was interesting.
 
-<details><summary>Screenshot1</summary>
+<details><summary>Screenshot</summary>
 <p>
 
 ![Screenshot-image-link](task_git_collaboration/coursera3.PNG)
 </p>
 </details>
 
-<details><summary>Screenshot2</summary>
+<details><summary>Screenshot</summary>
 <p>
 
 ![Screenshot-image-link](task_git_collaboration/coursera4.PNG)
@@ -116,14 +116,14 @@ This course is a continuation of the Git Basics course. Acquainted and practiced
 
 I took the course and completed it.
 
-<details><summary>Screenshot2</summary>
+<details><summary>Screenshot</summary>
 <p>
 
 ![Screenshot-image-link](task_git_collaboration/Git1.PNG)
 </p>
 </details>
 
-<details><summary>Screenshot2</summary>
+<details><summary>Screenshot</summary>
 <p>
 
 ![Screenshot-image-link](task_git_collaboration/Git2.PNG)
@@ -131,3 +131,36 @@ I took the course and completed it.
 </details>
 
 ---
+
+### Intro to HTML and CSS
+
+<details><summary>Screenshot</summary>
+<p>
+
+![Screenshot-image-link](task_html_css_intro/week1.1.PNG)
+</p>
+</details>
+<details><summary>Screenshot</summary>
+<p>
+
+![Screenshot-image-link](task_html_css_intro/week1.2.PNG)
+</p>
+</details>
+<details><summary>Screenshot</summary>
+<p>
+
+![Screenshot-image-link](task_html_css_intro/HTML-done.PNG)
+</p>
+</details>
+<details><summary>Screenshot</summary>
+<p>
+
+![Screenshot-image-link](task_html_css_intro/CSS-DANE.PNG)
+</p>
+</details>
+<details><summary>Screenshot</summary>
+<p>
+
+![Screenshot-image-link](task_html_css_intro/HTML_CSS.PNG)
+</p>
+</details>
