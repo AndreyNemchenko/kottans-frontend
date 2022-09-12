@@ -17,7 +17,7 @@
     - Course: Learn Git branching (last levels)
 
 **Front-End Basics**
-- [ ] **3.** [Intro to HTML & CSS](#intro-to-html-and-css)
+- [x] **3.** [Intro to HTML & CSS](#intro-to-html-and-css)
     - Course: Intro to HTML & CSS (Udasity)
     - Course: Learn HTML(Codeacademy)
     - Course: Learn CSS(Codeacademy)
@@ -136,6 +136,8 @@ I took the course and completed it.
 
 Completed a course in HTML and CSS. Completed practical tasks.From useful things, I finally understood how tables work.Refreshed basic knowledge.
 
+Course: Intro to HTML & CSS (Udasity)
+
 <details><summary>Screenshot</summary>
 <p>
 
@@ -148,18 +150,27 @@ Completed a course in HTML and CSS. Completed practical tasks.From useful things
 ![Screenshot-image-link](task_html_css_intro/week1.2.PNG)
 </p>
 </details>
+
+Course: Learn HTML(Codeacademy)
+
 <details><summary>Screenshot</summary>
 <p>
 
 ![Screenshot-image-link](task_html_css_intro/HTML-done.PNG)
 </p>
 </details>
+
+Course: Learn CSS(Codeacademy)
+
 <details><summary>Screenshot</summary>
 <p>
 
 ![Screenshot-image-link](task_html_css_intro/CSS-DANE.PNG)
 </p>
 </details>
+
+Course: Learn HTML+CSS(Codeacademy)
+
 <details><summary>Screenshot</summary>
 <p>
 
